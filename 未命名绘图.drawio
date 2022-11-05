@@ -1,20 +1,22 @@
-<mxfile host="app.diagrams.net" modified="2022-11-05T02:38:02.433Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="fdL9AcqEhdZQwWVoloL6" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-05T02:48:36.919Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="ZGYl2SF-ppup9uT8I0K0" version="20.5.1" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
-    <mxGraphModel dx="2297" dy="1177" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1723" dy="883" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="sZ4xlpR0LMzzhPZL-YYs-59" value="" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=#ffffff;sketch=0;strokeColor=#000000;fontFamily=Helvetica;fontSize=14;fontColor=default;fillColor=default;dashed=1;strokeWidth=3;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1390" y="141" width="220" height="260" as="geometry" />
+        </mxCell>
         <mxCell id="sZ4xlpR0LMzzhPZL-YYs-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#004C99;strokeWidth=3;fontFamily=Helvetica;fontSize=14;fontColor=blue;" edge="1" parent="1" source="sZ4xlpR0LMzzhPZL-YYs-14" target="sZ4xlpR0LMzzhPZL-YYs-32">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="sZ4xlpR0LMzzhPZL-YYs-14" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillStyle=auto;strokeColor=#004C99;" vertex="1" parent="1">
+        <mxCell id="sZ4xlpR0LMzzhPZL-YYs-14" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillStyle=auto;strokeColor=#004C99;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="310" y="120" width="360" height="290" as="geometry" />
         </mxCell>
-        <mxCell id="sZ4xlpR0LMzzhPZL-YYs-15" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;" edge="1" parent="1" source="sZ4xlpR0LMzzhPZL-YYs-6" target="sZ4xlpR0LMzzhPZL-YYs-14">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="sZ4xlpR0LMzzhPZL-YYs-6" value="蜂窝网络意图" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=14;image=img/lib/azure2/general/File.svg;sketch=0;imageBorder=none;imageBackground=none;" vertex="1" parent="1">
-          <mxGeometry x="100" y="200.5" width="104.7" height="129" as="geometry" />
+        <mxCell id="sZ4xlpR0LMzzhPZL-YYs-15" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;" edge="1" parent="1" target="sZ4xlpR0LMzzhPZL-YYs-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="204.70000000000005" y="265" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="sZ4xlpR0LMzzhPZL-YYs-40" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#004C99;fontFamily=Helvetica;fontSize=14;fontColor=blue;strokeWidth=3;" edge="1" parent="1" source="sZ4xlpR0LMzzhPZL-YYs-7" target="sZ4xlpR0LMzzhPZL-YYs-9">
           <mxGeometry relative="1" as="geometry" />
@@ -48,7 +50,7 @@
             <mxPoint x="1390" y="270" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="sZ4xlpR0LMzzhPZL-YYs-33" value="" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=#ffffff;sketch=0;strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=blue;fillColor=default;dashed=1;" vertex="1" parent="1">
+        <mxCell id="sZ4xlpR0LMzzhPZL-YYs-33" value="" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=#ffffff;sketch=0;strokeColor=#67AB9F;fontFamily=Helvetica;fontSize=12;fontColor=blue;fillColor=default;dashed=1;strokeWidth=3;align=right;" vertex="1" parent="1">
           <mxGeometry x="860" y="140" width="480" height="260" as="geometry" />
         </mxCell>
         <mxCell id="sZ4xlpR0LMzzhPZL-YYs-48" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#004C99;strokeWidth=3;fontFamily=Helvetica;fontSize=14;fontColor=blue;" edge="1" parent="1" source="sZ4xlpR0LMzzhPZL-YYs-36" target="sZ4xlpR0LMzzhPZL-YYs-37">
@@ -57,8 +59,8 @@
         <mxCell id="sZ4xlpR0LMzzhPZL-YYs-36" value="形式化约束建模" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#067F68;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=14;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.sagemaker_model;labelBackgroundColor=#ffffff;fontFamily=Helvetica;" vertex="1" parent="1">
           <mxGeometry x="1060" y="206.13" width="108" height="108" as="geometry" />
         </mxCell>
-        <mxCell id="sZ4xlpR0LMzzhPZL-YYs-37" value="反例引导综合" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#B0084D;strokeColor=default;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=14;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.checklist_fault_tolerant;labelBackgroundColor=#ffffff;fontFamily=Helvetica;" vertex="1" parent="1">
-          <mxGeometry x="1220" y="211.76" width="98" height="96.74" as="geometry" />
+        <mxCell id="sZ4xlpR0LMzzhPZL-YYs-37" value="反例引导综合" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#EA6B66;strokeColor=default;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=14;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.checklist_fault_tolerant;labelBackgroundColor=#ffffff;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="1220" y="205.89" width="109.65" height="108.24" as="geometry" />
         </mxCell>
         <mxCell id="sZ4xlpR0LMzzhPZL-YYs-38" value="网络功能Sketch" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/outline-icons/320/Sketch_Book-128.png;sketch=0;strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="890" y="206.13" width="108" height="108" as="geometry" />
@@ -70,16 +72,28 @@
           <mxGeometry x="890" y="206.13" width="108" height="108" as="geometry" />
         </mxCell>
         <mxCell id="sZ4xlpR0LMzzhPZL-YYs-49" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.script_file;labelBackgroundColor=#ffffff;fontFamily=Helvetica;fontSize=14;fontColor=blue;" vertex="1" parent="1">
-          <mxGeometry x="1400" y="173" width="75.2" height="80" as="geometry" />
+          <mxGeometry x="1411" y="173" width="75.2" height="80" as="geometry" />
         </mxCell>
         <mxCell id="sZ4xlpR0LMzzhPZL-YYs-50" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.powershell_file;labelBackgroundColor=#ffffff;fontFamily=Helvetica;fontSize=14;fontColor=blue;" vertex="1" parent="1">
-          <mxGeometry x="1400.48" y="283" width="74.72" height="79.49" as="geometry" />
+          <mxGeometry x="1411.48" y="283" width="74.72" height="79.49" as="geometry" />
         </mxCell>
         <mxCell id="sZ4xlpR0LMzzhPZL-YYs-51" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=#001DBC;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;shape=mxgraph.azure.rdp_remoting_file;fillColor=#00188D;labelBackgroundColor=#ffffff;fontFamily=Helvetica;fontSize=14;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="1498.4" y="173" width="76.8" height="80" as="geometry" />
+          <mxGeometry x="1509.4" y="173" width="76.8" height="80" as="geometry" />
         </mxCell>
         <mxCell id="sZ4xlpR0LMzzhPZL-YYs-52" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.file;labelBackgroundColor=#ffffff;fontFamily=Helvetica;fontSize=14;fontColor=blue;" vertex="1" parent="1">
-          <mxGeometry x="1498.4" y="283" width="75.2" height="80" as="geometry" />
+          <mxGeometry x="1509.4" y="283" width="75.2" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="sZ4xlpR0LMzzhPZL-YYs-61" value="&lt;font color=&quot;#000000&quot; style=&quot;font-size: 14px;&quot;&gt;蜂窝网络意图&lt;/font&gt;" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/general/File.svg;labelBackgroundColor=#ffffff;sketch=0;strokeColor=default;fontFamily=Helvetica;fontColor=blue;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="60" y="171.97" width="143.1" height="176.32" as="geometry" />
+        </mxCell>
+        <mxCell id="sZ4xlpR0LMzzhPZL-YYs-62" value="蜂窝网络编程语言编译器" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;labelBackgroundColor=#ffffff;sketch=0;fontFamily=Helvetica;fontSize=20;fontColor=#000000;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="320" y="80" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sZ4xlpR0LMzzhPZL-YYs-63" value="配置综合系统" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;labelBackgroundColor=#ffffff;sketch=0;fontFamily=Helvetica;fontSize=20;fontColor=#000000;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="890" y="90" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sZ4xlpR0LMzzhPZL-YYs-64" value="输出配置文件" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;labelBackgroundColor=#ffffff;sketch=0;fontFamily=Helvetica;fontSize=20;fontColor=#000000;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1400" y="100" width="140" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -1,1 +1,40 @@
-<mxfile host="app.diagrams.net" modified="2022-11-05T03:33:42.143Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" version="20.5.1" etag="eEedOZoWEaJv7Jlta6Gw" type="github"><diagram id="11Lza99RtR4ixlPUYiI9">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-11-05T05:36:39.520Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="yOvtHEWHem4TdPmKHoAP" version="20.5.1" type="github">
+  <diagram id="11Lza99RtR4ixlPUYiI9" name="第 1 页">
+    <mxGraphModel dx="1422" dy="706" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="XTvACI7jUPrjdsl8I4Xi-10" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillStyle=auto;strokeColor=#004C99;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="240" y="240" width="400" height="296" as="geometry" />
+        </mxCell>
+        <mxCell id="XTvACI7jUPrjdsl8I4Xi-11" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#004C99;fontFamily=Helvetica;fontSize=14;fontColor=blue;strokeWidth=3;" edge="1" parent="1" source="XTvACI7jUPrjdsl8I4Xi-13" target="XTvACI7jUPrjdsl8I4Xi-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XTvACI7jUPrjdsl8I4Xi-12" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#004C99;fontFamily=Helvetica;fontSize=14;fontColor=blue;strokeWidth=3;" edge="1" parent="1" source="XTvACI7jUPrjdsl8I4Xi-13" target="XTvACI7jUPrjdsl8I4Xi-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XTvACI7jUPrjdsl8I4Xi-13" value="词法分析" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/essential-pack/32/38-File-128.png;imageBackground=none;imageBorder=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="271.59" y="261" width="79" height="79" as="geometry" />
+        </mxCell>
+        <mxCell id="XTvACI7jUPrjdsl8I4Xi-14" style="rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#004C99;strokeWidth=3;fontFamily=Helvetica;fontSize=20;fontColor=#000000;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="XTvACI7jUPrjdsl8I4Xi-15" target="XTvACI7jUPrjdsl8I4Xi-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XTvACI7jUPrjdsl8I4Xi-15" value="语法分析" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#67AB9F;shape=mxgraph.azure.sql_reporting;fillStyle=auto;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="414" y="260" width="58" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="XTvACI7jUPrjdsl8I4Xi-16" value="类型检查" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/business-startup-10/50/8-128.png;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="528" y="409" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="XTvACI7jUPrjdsl8I4Xi-17" value="抽象原语" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=16;image=img/lib/azure2/integration/Event_Grid_Subscriptions.svg;" vertex="1" parent="1">
+          <mxGeometry x="270" y="425.42" width="82.17" height="73.58" as="geometry" />
+        </mxCell>
+        <mxCell id="XTvACI7jUPrjdsl8I4Xi-18" style="edgeStyle=none;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#004C99;strokeWidth=3;fontFamily=Helvetica;fontSize=20;fontColor=#000000;" edge="1" parent="1" source="XTvACI7jUPrjdsl8I4Xi-19" target="XTvACI7jUPrjdsl8I4Xi-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XTvACI7jUPrjdsl8I4Xi-19" value="中间表示" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/48-bubbles/48/12.File-128.png;sketch=0;strokeColor=default;fontFamily=Helvetica;fontSize=16;fontColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="530" y="256" width="88" height="88" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

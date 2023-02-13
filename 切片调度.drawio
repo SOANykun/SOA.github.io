@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-02-13T07:09:56.572Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="gNjSUiak2TdO6-NT5u5Y" version="20.8.20" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-13T07:13:38.339Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="2QoV6JPDGy1uiC0Dlm_H" version="20.8.20" type="github">
   <diagram id="wFE0QG_FPsp0jaGvCLVb" name="Page-1">
-    <mxGraphModel dx="2022" dy="1073" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2275" dy="1208" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -585,6 +585,33 @@
         </mxCell>
         <mxCell id="ZS3M0UPskAL1l6NGhH83-171" value="请求池" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=25;" vertex="1" parent="1">
           <mxGeometry x="1330" y="790" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZS3M0UPskAL1l6NGhH83-177" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#5C9BD5;strokeColor=#004C99;strokeWidth=1;fontSize=25;fontColor=#5C9BD5;fillColor=#FFFFFF;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="1420" y="330" width="210" height="225" as="geometry" />
+        </mxCell>
+        <mxCell id="ZS3M0UPskAL1l6NGhH83-178" value="&lt;ul&gt;&lt;li&gt;质量&lt;/li&gt;&lt;li&gt;切片时长&lt;/li&gt;&lt;li&gt;费用&lt;/li&gt;&lt;li&gt;...&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=25;" vertex="1" parent="1">
+          <mxGeometry x="1410" y="450" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZS3M0UPskAL1l6NGhH83-179" value="SLA" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=30;" vertex="1" parent="1">
+          <mxGeometry x="1400" y="350" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZS3M0UPskAL1l6NGhH83-180" value="&lt;font color=&quot;#ffffff&quot;&gt;切片请求&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#5C9BD5;strokeColor=#004C99;strokeWidth=1;fontSize=25;fontColor=#5C9BD5;fillColor=#5C9BD5;" vertex="1" parent="1">
+          <mxGeometry x="1412.5" y="545" width="225" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZS3M0UPskAL1l6NGhH83-181" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1680" y="262" width="228" height="264" as="geometry" />
+        </mxCell>
+        <mxCell id="ZS3M0UPskAL1l6NGhH83-173" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/nuvola2/128x128/apps/personal.png;strokeColor=#000000;strokeWidth=1;fontSize=25;fontColor=#5C9BD5;fillColor=#5C9BD5;" vertex="1" parent="ZS3M0UPskAL1l6NGhH83-181">
+          <mxGeometry x="70" width="88" height="88" as="geometry" />
+        </mxCell>
+        <mxCell id="ZS3M0UPskAL1l6NGhH83-174" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/nuvola2/128x128/apps/personal.png;strokeColor=#000000;strokeWidth=1;fontSize=25;fontColor=#5C9BD5;fillColor=#5C9BD5;" vertex="1" parent="ZS3M0UPskAL1l6NGhH83-181">
+          <mxGeometry y="88" width="88" height="88" as="geometry" />
+        </mxCell>
+        <mxCell id="ZS3M0UPskAL1l6NGhH83-175" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/nuvola2/128x128/apps/personal.png;strokeColor=#000000;strokeWidth=1;fontSize=25;fontColor=#5C9BD5;fillColor=#5C9BD5;" vertex="1" parent="ZS3M0UPskAL1l6NGhH83-181">
+          <mxGeometry x="140" y="88" width="88" height="88" as="geometry" />
+        </mxCell>
+        <mxCell id="ZS3M0UPskAL1l6NGhH83-176" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/nuvola2/128x128/apps/personal.png;strokeColor=#000000;strokeWidth=1;fontSize=25;fontColor=#5C9BD5;fillColor=#5C9BD5;" vertex="1" parent="ZS3M0UPskAL1l6NGhH83-181">
+          <mxGeometry x="70" y="176" width="88" height="88" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

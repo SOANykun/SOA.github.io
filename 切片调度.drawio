@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-02-13T06:40:59.390Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="q0nmsbT75i5kygh0J9mD" version="20.8.20" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-13T06:43:22.733Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="b3ws5IhF0x606kiW6RXb" version="20.8.20" type="github">
   <diagram id="wFE0QG_FPsp0jaGvCLVb" name="Page-1">
-    <mxGraphModel dx="1138" dy="604" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="387" dy="206" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -436,9 +436,6 @@
         <mxCell id="ZS3M0UPskAL1l6NGhH83-81" value="" style="sketch=0;html=1;aspect=fixed;strokeColor=#0066CC;shadow=0;align=center;verticalAlign=top;fillColor=#FFFFFF;shape=mxgraph.gcp2.cloud_computer;strokeWidth=1;" vertex="1" parent="ZS3M0UPskAL1l6NGhH83-83">
           <mxGeometry x="20" y="-9.58" width="56.34" height="49.58" as="geometry" />
         </mxCell>
-        <mxCell id="ZS3M0UPskAL1l6NGhH83-87" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/business-startup-10/50/22-128.png;strokeColor=#5C9BD5;strokeWidth=1;fillColor=#5C9BD5;" vertex="1" parent="1">
-          <mxGeometry x="950" y="572" width="128" height="128" as="geometry" />
-        </mxCell>
         <mxCell id="ZS3M0UPskAL1l6NGhH83-110" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="965" y="815" width="257.5" height="90" as="geometry" />
         </mxCell>
@@ -483,6 +480,18 @@
         </mxCell>
         <mxCell id="ZS3M0UPskAL1l6NGhH83-101" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#d79b00;strokeWidth=1;fillColor=#ffe6cc;rotation=90;" vertex="1" parent="ZS3M0UPskAL1l6NGhH83-110">
           <mxGeometry x="142.5" y="17.5" width="75" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZS3M0UPskAL1l6NGhH83-112" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=#ffffff;fontSize=12;spacingTop=3;image;image=img/lib/ibm/data/model.svg;strokeColor=#000000;strokeWidth=1;fillColor=#5C9BD5;" vertex="1" parent="1">
+          <mxGeometry y="610" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZS3M0UPskAL1l6NGhH83-115" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="965" y="628" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ZS3M0UPskAL1l6NGhH83-114" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;labelBackgroundColor=#5C9BD5;strokeColor=default;strokeWidth=1;fillColor=#5C9BD5;" vertex="1" parent="ZS3M0UPskAL1l6NGhH83-115">
+          <mxGeometry width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ZS3M0UPskAL1l6NGhH83-113" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=#FFFFFF;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#FFFFFF;shape=mxgraph.mscae.enterprise.performance_monitor;labelBackgroundColor=#5C9BD5;strokeWidth=1;" vertex="1" parent="ZS3M0UPskAL1l6NGhH83-115">
+          <mxGeometry x="15" y="22" width="50" height="36" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
